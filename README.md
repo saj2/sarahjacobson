@@ -1,2 +1,2 @@
 # ECON477
-Sarah Jacobson website
+Sarah Jacobson's ECON477 website
